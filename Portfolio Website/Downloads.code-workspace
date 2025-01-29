@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/Downloads"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio Website"
+	}
+}
